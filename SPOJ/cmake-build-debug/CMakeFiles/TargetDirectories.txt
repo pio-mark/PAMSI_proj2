@@ -1,0 +1,3 @@
+C:/Users/Piotrek/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/SPOJ.dir
+C:/Users/Piotrek/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Piotrek/CLionProjects/SPOJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir

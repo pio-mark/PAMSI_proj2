@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Piotrek/CLionProjects/SPOJ/box.h
+string
+-
+stdlib.h
+-
+string
+-
+iostream
+-
+
+C:/Users/Piotrek/CLionProjects/SPOJ/main.cpp
+iostream
+-
+iomanip
+-
+fstream
+-
+box.h
+C:/Users/Piotrek/CLionProjects/SPOJ/box.h
+chrono
+-
+vector
+-
+algorithm
+-
+
